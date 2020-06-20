@@ -1,8 +1,8 @@
-# Satellite images for mapping
+# About satellite images used for mapping
 
 * Several sattelite images are available in mapping tools. (iD Editor, geom, etc.)
-* Most mapping tasks instruct us to use Maxar image. 
-* Bing is older!
+* Most mapping tasks are saying us to use Maxar image. 
+* Bing (by Microsoft) image is often older than Maxar!
 
 # Difference of satellite images
 
