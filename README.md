@@ -7,7 +7,7 @@
 # Difference of satellite images
 
 See following two images of the same place. Fig.1 is Bing and Fig.2 is Maxar.
-You can notice that the area of land is larger in Maxar.
+Can you find the difference between two?
 
 Fig.1 Bing image
 ![Bing1](/satellite/Bing1.JPG)
@@ -17,13 +17,16 @@ Fig.2 Maxar image
 
 # Close-up
 
-Please look at the following close-up picture of lower right of the area.
+Please look at the following close-up picture of lower right (South-East) of the area.
 Can you believe they are the same area?
+I think they reclamated the riverbank and expanded their firmland after Bing image was taken.
+It depends on the area of-course, but you will find some differences in almost all area.
+I often notice buidings have been rebuilt.
 
-Fig.3 Bing image (close-up)
+Fig.3 Bing image close-up
 ![Bing2](/satellite/Bing2.JPG)
 
-Fig.4 Maxar image (close-up)
+Fig.4 Maxar image close-up
 ![Maxar2](/satellite/Maxar2.JPG)
 
 # How to switch satellite images
