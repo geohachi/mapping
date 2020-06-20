@@ -8,6 +8,7 @@
 
 See following two images of the same place. Fig.1 is Bing and Fig.2 is Maxar.
 Can you find the difference between two?
+Please disregard the color because it depends on the time and/or season the image was taken.
 
 Fig.1 Bing image
 ![Bing1](/satellite/Bing1.JPG)
@@ -19,7 +20,10 @@ Fig.2 Maxar image
 
 Please look at the following close-up picture of lower right (South-East) of the area.
 Can you believe they are the same area?
-I think they reclamated the riverbank and expanded their firmland after Bing image was taken.
+
+New buidings and roads are easily found.
+You may also notice that trees are larger in Maxar image than Bing. May be more than 5 years?
+
 It depends on the area of-course, but you will find some differences in almost all area.
 I often notice buidings have been rebuilt.
 
@@ -30,10 +34,13 @@ Fig.4 Maxar image close-up
 ![Maxar2](/satellite/Maxar2.JPG)
 
 # How to switch satellite images
+Now you understood the difference of satellite images.
+I will show you how to switch them.
 It depends on the editor you are using.
-I will explain about iD Editor.
+Here I will explain for iD Editor. (Figures here are from iD Editor.)
 
-In the editor, press 'B' key that brings up Background menu as shown in Fig.1.
+In iD editor, pressing **'B'** key brings up Background menu as shown in Fig.1.
+
 In my case, the following list is shown.
 * Bing aerial imagery
 * Satellite and aerial imagery.
@@ -44,14 +51,12 @@ In my case, the following list is shown.
 * Maxar Standard Imagery (Beta)
 
 You can check those images.
-Some are blur and some may have cloud and you cannot see the ground.
-The color may differ because of the time and season the image taken.
-
+Some are blur. Some may have cloud and you cannot see the ground.
 
 As I mension already, Maxar image is so-so clear and the latest that is the most important thing for mapping.
 So basically, you want to use Maxar image.
 (I don't see any difference between "Maxar Premium Imagery" and "Maxar Standard Imagery", so I always use premium one.)
-But in case you cannot see the building clearly, you can tempolary switch background image to Bing or even other satellite to clarify the surface of the ground. (By using Ctrl-B, you can go back and forth the last two images.)
+But in case you cannot see the building clearly in Maxar, you can tempolary switch background image to Bing or even another satellite to clarify the surface of the ground. (By using Ctrl-B, you can go back and forth the last two images.)
 
 ## Adjusting imagery offset
 You may notice that there is imegery offset between two.
@@ -70,7 +75,6 @@ See Fig.6.
 
 Fig.6 Display Option
 ![DisplayOption](/satellite/display_option.JPG)
-
 
 
 
