@@ -63,7 +63,7 @@ You may notice that there is imegery offset between two.
 You can cancel it by using "adjust-imagery-offset" function in the menu if you want.
 You need to scroll-down to reach this option. See Fig.5.
 
-To adjust offset, drag gray area around the box by mouse cursor while the left button is pressed.
+To adjust offset, drag shaded box by mouse cursor while the left button is pressed.
 I recommend you adjust it only for Bing image if necessary, and keep 0,0 for Maxar.
 
 Fig.5 Imagery offset control
