@@ -55,7 +55,7 @@ Some are blur. Some may have cloud and you cannot see the ground.
 
 As I mension already, Maxar image is so-so clear and the latest that is the most important thing for mapping.
 So basically, you want to use Maxar image.
-(I don't see any difference between "Maxar Premium Imagery" and "Maxar Standard Imagery", so I always use premium one.)
+(There are subtle difference between "Maxar Premium Imagery" and "Maxar Standard Imagery", and I found Premium image is newer in West Bengal area.)
 But in case you cannot see the building clearly in Maxar, you can tempolary switch background image to Bing or even another satellite to clarify the surface of the ground. (By using Ctrl-B, you can go back and forth the last two images.)
 
 ## Adjusting imagery offset
